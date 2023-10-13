@@ -7,3 +7,5 @@ Here you can find as requested by the assignment the PDF file created from the s
 Some exercises are missing but compared to the large amount of tasks in this homework it's a small percentage.
 
 For some exercises I helped myself with the Hackerrank discussions, but I  never copied and paste the code.
+
+Finally, I included (just in case) also a screen of my AWS Academy submissions 
