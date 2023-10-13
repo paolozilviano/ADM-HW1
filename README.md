@@ -8,4 +8,4 @@ Some exercises are missing but compared to the large amount of tasks in this hom
 
 For some exercises I helped myself with the Hackerrank discussions, but I  never copied and paste the code.
 
-Finally, I included (just in case) also a screen of my AWS Academy submissions 
+Finally, I included (just in case) also a screenshot of my AWS Academy submissions (*aws_submissions*)
